@@ -1,0 +1,5 @@
+---
+clickhouse:
+  hosts:
+    clickhouse:
+      ansible_host: 192.168.10.108
